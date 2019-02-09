@@ -1016,28 +1016,28 @@
 8C	8c	4e	4cc
 8CC	4G 4C	.	.
 8CC	.	4r	8r
-8CC	[8G 8C	.	16aa
+8CC	[8G [8C	.	16aa
 .	.	.	16gg
 =122	=122	=122	=122
-8CC	8G 8C]	8d#	16ff#
+8CC	8G] 8C]	8d#	16ff#
 .	.	.	16aa
 8CC	4G 4C	4e	16gg
 .	.	.	16ff#
 8CC	.	.	16aa
 .	.	.	16gg
-8CC	[8G 8C	8d#	16ff#
+8CC	[8G [8C	8d#	16ff#
 .	.	.	16aa
 =123	=123	=123	=123
-8CC	8G 8C]	8e	16gg
+8CC	8G] 8C]	8e	16gg
 .	.	.	16ff#
 8CC	4G 4C	4d#	16aa
 .	.	.	16gg
 8CC	.	.	16ff#
 .	.	.	16aa
-8CC	[8G 8C	[8e	16gg
+8CC	[8G [8C	[8e	16gg
 .	.	.	16ff#
 =124	=124	=124	=124
-8CC	8G 8C]	8e]	16aa
+8CC	8G] 8C]	8e]	16aa
 .	.	.	16gg
 8r	8e 8G	8g	16ff
 .	.	.	16ee
@@ -1049,28 +1049,28 @@
 8C	8e 8G	4cc	8cc
 8CC	4G 4C	.	8ee
 8CC	.	4r	8g
-8CC	[8G 8C	.	16aa
+8CC	[8G [8C	.	16aa
 .	.	.	16gg
 =126	=126	=126	=126
-8CC	8G 8C]	8d#	16ff#
+8CC	8G] 8C]	8d#	16ff#
 .	.	.	16aa
 8CC	4G 4C	4e	16gg
 .	.	.	16ff#
 8CC	.	.	16aa
 .	.	.	16gg
-8CC	[8G 8C	8d#	16ff#
+8CC	[8G [8C	8d#	16ff#
 .	.	.	16aa
 =127	=127	=127	=127
-8CC	8G 8C]	8e	16gg
+8CC	8G] 8C]	8e	16gg
 .	.	.	16ff#
 8CC	4G 4C	4d#	16aa
 .	.	.	16gg
 8CC	.	.	16ff#
 .	.	.	16aa
-8CC	[8G 8C	[8e	16gg
+8CC	[8G [8C	[8e	16gg
 .	.	.	16ff#
 =128	=128	=128	=128
-8CC	8G 8C]	8e]	16aa
+8CC	8G] 8C]	8e]	16aa
 .	.	.	16gg
 8r	8e 8G	8g	16ff
 .	.	.	16ee
@@ -1122,11 +1122,11 @@
 8r	8r	8r	8r
 8r	8r	8r	8r
 =134	=134	=134	=134
-[2DD-	[2A- 2F	[2d-	4.r
+[2DD-	[2A- [2F	[2d-	4.r
 .	.	.	16bb-
 .	.	.	16aa-
 =135	=135	=135	=135
-2DD-_	2A- 2F_	2d-_	16gg
+2DD-_	2A-_ 2F_	2d-_	16gg
 .	.	.	16bb-
 .	.	.	16aa-
 .	.	.	16gg
@@ -1135,7 +1135,7 @@
 .	.	.	16gg
 .	.	.	16bb-
 =136	=136	=136	=136
-2DD-_	2A- 2F_	2d-_	16aa-
+2DD-_	2A-_ 2F_	2d-_	16aa-
 .	.	.	16gg
 .	.	.	16bb-
 .	.	.	16aa-
@@ -1144,7 +1144,7 @@
 .	.	.	16aa-
 .	.	.	16gg-
 =137	=137	=137	=137
-2DD-_	4A- 4F]	4d-]	16ff
+2DD-_	4A-] 4F]	4d-]	16ff
 .	.	.	16aa-
 .	.	.	16gg-
 .	.	.	16ff
@@ -2508,28 +2508,28 @@
 8F	8f	4a	4ff
 8FF	4A 4C	.	.
 8FF	.	4r	8r
-8FF	[8A 8C	.	16ddd
+8FF	[8A [8C	.	16ddd
 .	.	.	16ccc
 =298	=298	=298	=298
-8FF	8A 8C]	2f	16bb
+8FF	8A] 8C]	2f	16bb
 .	.	.	16ddd
 8FF	4A 4C	.	16ccc
 .	.	.	16bb
 8FF	.	.	16ddd
 .	.	.	16ccc
-8FF	[8A 8C	.	16bb
+8FF	[8A [8C	.	16bb
 .	.	.	16ddd
 =299	=299	=299	=299
-8FF	8A 8C]	4f	16ccc
+8FF	8A] 8C]	4f	16ccc
 .	.	.	16bb
 8FF	4A 4C	.	16ddd
 .	.	.	16ccc
 8FF	.	4f	16bb
 .	.	.	16ddd
-8FF	[8A 8C	.	16ccc
+8FF	[8A [8C	.	16ccc
 .	.	.	16bb
 =300	=300	=300	=300
-8FF	8A 8C]	8f	16ddd
+8FF	8A] 8C]	8f	16ddd
 .	.	.	16ccc
 8r	8c	8f	16bb-
 .	.	.	16aa
@@ -2562,7 +2562,7 @@
 8FF	[8A	.	16ccc
 .	.	.	16bb
 =304	=304	=304	=304
-8FF	8A 8C]	8ff	16ddd
+8FF	8A] 8C	8ff	16ddd
 .	.	.	16ccc
 8r	8c	8f	16bb-
 .	.	.	16aa
