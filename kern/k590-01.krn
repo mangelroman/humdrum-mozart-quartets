@@ -1517,7 +1517,7 @@
 4r	8f 8G	.	8bb
 .	8f 8G	8r	8r
 =139	=139	=139	=139
-4C	8e 8G	2..r	16ccc
+4C	8e 8G	2.r	16ccc
 .	.	.	16bb
 .	8r	.	16ddd
 .	.	.	16ccc
@@ -1529,7 +1529,7 @@
 .	16dd	.	.
 .	16ff	.	8fff
 .	16ee	.	.
-.	8gg	.	8eee
+.	8gg	8r	8eee
 .	8ff	8aa	8ddd
 =140	=140	=140	=140
 1r	8ee	8gg	8ccc
